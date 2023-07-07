@@ -1,0 +1,20 @@
+---
+name: "Introduction to R, University of Gdansk"
+navbar:
+  title: "Intro to R"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Lesson 1"
+      href: first.html
+<<<<<<< HEAD
+  output:
+    name: RKCHUG
+    output_dir: docs
+    html_document:
+      theme: cosmo
+
+---
+
