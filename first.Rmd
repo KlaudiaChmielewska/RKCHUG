@@ -4,11 +4,6 @@ subtitle: "*Lesson 1*"
 author: "__*Klaudia Chmielewska*__"
 output:    
   html_document:
-<<<<<<< HEAD
-=======
-    includes:
-      after_body: footer.html
->>>>>>> e0602bb89a80acb57112369b037b282dbbfe2533
     df_print: paged
     toc: true # generates a table of contents (based on # and ## lines)
     number_sections: false # table of contents numbers
